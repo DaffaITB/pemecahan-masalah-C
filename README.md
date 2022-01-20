@@ -1,3 +1,3 @@
 # pemecahan-masalah-C
 
-## Repositori kuliah
+Repositori kuliah
